@@ -1,3 +1,5 @@
+package codes;
+
 class Solution {
     public int[][] floodFill(int[][] image, int sr, int sc, int newColor) {
         int m = image.length;
